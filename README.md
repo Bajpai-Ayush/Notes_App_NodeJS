@@ -1,6 +1,7 @@
 # Notes taking App
 
 First of all since it is a node project so you will be requiring the some inbuilt as well as third-party modules which had been used in this project. So to have them execute the below command and all the required packages will be downloaded in node_modules folder.
+
 npm install
 
 ![](images/modules.png)
