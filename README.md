@@ -24,7 +24,7 @@ where add is command which we are writing for adding a new note and "-t" which i
   
 ![](images/remove_note.png)
   
-where remove is command for deleting a note <title> as a title and make sure to enclose it inside the double quotes("").
+where remove is command for deleting a note "title" as a title and make sure to enclose it inside the double quotes("") as shown.
   
 ## To Read a particular note:
 
@@ -32,7 +32,7 @@ where remove is command for deleting a note <title> as a title and make sure to 
   
 ![](images/read_note.png)
   
-where read is command for reading a note <title> as a title and make sure to enclose it inside the double quotes("").
+where read is command for reading a note "title" as a title and make sure to enclose it inside the double quotes("") as shown.
 
 ## To See the List of notes:
 
