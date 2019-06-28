@@ -4,7 +4,7 @@ First of all since it is a node project so you will be requiring the some inbuil
 
 ## To add the node_modules:
 
-npm install
+### npm install
 
 ![](images/modules.png)
 
@@ -12,7 +12,7 @@ It helps you in keeping your notes easily in a file and doing whatever you want 
 
 ## To Add a new note:
 
-node app.js add -t="title" -b="content"
+### node app.js add -t="title" -b="content"
   
 ![](images/add_note.png)
 
@@ -20,7 +20,7 @@ where add is command which we are writing for adding a new note and "-t" which i
   
 ## To Delete an existing note:
 
-node app.js remove -t="title"
+### node app.js remove -t="title"
   
 ![](images/remove_note.png)
   
@@ -28,7 +28,7 @@ where remove is command for deleting a note <title> as a title and make sure to 
   
 ## To Read a particular note:
 
-node app.js read -t="title"
+### node app.js read -t="title"
   
 ![](images/read_note.png)
   
@@ -36,7 +36,7 @@ where read is command for reading a note <title> as a title and make sure to enc
 
 ## To See the List of notes:
 
-node app.js list
+### node app.js list
 
 ![](images/notes_list.png)
 
