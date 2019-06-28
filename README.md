@@ -12,15 +12,15 @@ It helps you in keeping your notes easily in a file and doing whatever you want 
 
 ## To Add a new note:
 
-node app.js add -t="<title>" -b="<body>"
+node app.js add -t="title" -b="content"
   
 ![](images/add_note.png)
 
-where add is command which we are writing for adding a new note and "-t" which is an option to give the note a title and "-b" which is also an option to give the contents of note and make sure to enclose both of them inside the double quotes("").
+where add is command which we are writing for adding a new note and "-t" which is an option tag to give the note a title and "-b" which is also an option tag to give the contents of note and make sure to enclose both of them inside the double quotes("") as shown "title" and "content".
   
 ## To Delete an existing note:
 
-node app.js remove -t="<title>"
+node app.js remove -t="title"
   
 ![](images/remove_note.png)
   
@@ -28,7 +28,7 @@ where remove is command for deleting a note <title> as a title and make sure to 
   
 ## To Read a particular note:
 
-node app.js read -t="<title>"
+node app.js read -t="title"
   
 ![](images/read_note.png)
   
